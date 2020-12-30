@@ -1,3 +1,9 @@
+提交代码 可以参考
+https://segmentfault.com/a/1190000004326399
+
+git remote add origin_github git@github.com:zhupeipei/tinker.git
+git push origin_github myDev
+
 ## Tinker
 [![license](http://img.shields.io/badge/license-BSD3-brightgreen.svg?style=flat)](https://github.com/Tencent/tinker/blob/master/LICENSE)
 [![Release Version](https://img.shields.io/badge/release-1.9.14.9-red.svg)](https://github.com/Tencent/tinker/releases)
